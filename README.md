@@ -1,5 +1,8 @@
 # Melanoma Classification Project
 
+In this work, we show our approach to solve the [SIIM-ISIC Melanoma Classification challenge](https://www.kaggle.com/c/siim-isic-melanoma-classification). The goal of this competition is to identify melanoma from a set of skin lesion images with contextual data.
+
+
 To download the dataset of the competition, run the following sentences in a bash terminal:
 
 ```
